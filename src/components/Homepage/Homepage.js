@@ -15,7 +15,7 @@ const Homepage = () => {
           <div className="text-base font-light px-5 text-center md:text-right text-[#4F4F4F] mt-4">Easily host and share events with your friends across any social media.</div>
         </div>
         <div className="m-0 md:order-first">
-          <img className="w-full object-cover scale-75 md:scale-100" src={LandingImg} alt="Modern building architecture"/>
+          <img className="w-full object-cover shadow-lg scale-75 md:scale-100" src={LandingImg} alt="Modern building architecture"/>
         </div>
         <div className="flex space-x-2 mb-10 justify-center md:block md:bottom-48 md:right-64 md:absolute md:mt-64 md:mb-0">
           <Link to="/event">

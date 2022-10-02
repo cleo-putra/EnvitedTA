@@ -9,7 +9,7 @@ const Event = () => {
     <div class="mx-auto bg-[#F6F2FF] rounded-xl overflow-hidden md:p-24 md:pl-44 md:h-full md:mt-24">
       <div class="md:flex">
         <div class="md:order-last md:right-64 md:absolute">
-          <img class=" shadow-md h-full w-full object-cover md:h-full md:w-48 md:scale-150" src={Cake} alt="Cake birthday" />
+          <img class=" shadow-lg h-full w-full object-cover md:h-full md:w-48 md:scale-150" src={Cake} alt="Cake birthday" />
         </div>
         <div class="p-4 md:p-0">
           <div class="tracking-wide text-2xl md:text-5xl text-[#240D57] font-bold">Birthday Bash</div>
